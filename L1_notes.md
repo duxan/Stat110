@@ -32,5 +32,6 @@ $\,$ | Order | NO order
 **Replace** | $n^k$ | $\binom{n+k-1}{k}$
 **No replace** | $n\cdot (n-1) \ldots (n-k +1)$ | $\binom{n}{k}$
 
+Ordered combinations = permutations
 
 
